@@ -38,9 +38,6 @@ Display the total words in the file.
 ## PROGRAM:
 
 ```python
-# Program to get the word count from the contents of a file using command line arguments.
-# Developed by: KAMESH RR
-# Register no: 212223230095
 import sys
 fp=open(sys.argv[1])
 wordcount=0

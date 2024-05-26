@@ -1,4 +1,6 @@
 # Command--line-arguments-to-count-word
+##NAME:ANTHONY RAJ.N
+##REG.NO:212223230017
 
 ## AIM:
 

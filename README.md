@@ -50,7 +50,8 @@ fp.close()
 
 ### OUTPUT:
 
-![OUTPUT](OUTPUT.png)
+
+![image](https://github.com/23000966/Command--line-arguments-to-count-word/assets/153983364/6b1e150c-6df4-41ae-8b72-154b829843ae)
 
 ## RESULT:
 
